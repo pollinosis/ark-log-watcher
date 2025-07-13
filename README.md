@@ -20,7 +20,7 @@
 ### 1. リポジトリをクローン & 依存をインストール
 
 ```bash
-git clone https://github.com/YOUR_NAME/ark-log-watcher.git
+git clone https://github.com/pollinosis/ark-log-watcher.git
 cd ark-log-watcher
 bundle install
 ```
@@ -70,22 +70,9 @@ ark-log-watcher/
 
 ---
 
-## 🛠 今後の予定
-
-- [ ] Discord Embed による視認性向上
-- [ ] ログファイルの自動切り替え対応（ShooterGame_YYYYMMDD.log など）
-- [ ] systemd 対応で常時監視可能に
-- [ ] Docker 対応
-
----
-
 ## 📜 ライセンス
 
 MIT License  
 Copyright (c) 2025
 
 ---
-
-## 🙋‍♂️ コントリビュート歓迎！
-
-バグ報告や機能要望、PR 大歓迎です。気軽に issue を立ててください。
