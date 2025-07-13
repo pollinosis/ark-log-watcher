@@ -1,0 +1,8 @@
+log_file: "/home/steam/ArkSurvivalAscended/AppFiles/ShooterGame/Saved/Logs/ShooterGame.log"
+discord_webhook_url: "https://discord.com/api/webhooks/xxxx/yyyy"
+filters:
+  include:
+    - "Chat:"
+    - "joined"
+    - "left"
+    - "killed"

@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+
+require_relative '../lib/ark_log_watcher'
+
+config_path = File.expand_path('../config/config.yml', __dir__)
+ArkLogWatcher.run(config_path)

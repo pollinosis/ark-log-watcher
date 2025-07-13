@@ -1,0 +1,32 @@
+# Ruby
+*.gem
+*.rbc
+.bundle/
+vendor/
+pkg/
+log/
+tmp/
+coverage/
+InstalledFiles
+lib/bundler/man/
+
+# YARD artifacts
+.yardoc/
+.yardtmp/
+
+# Byebug/IRB/REPL history
+.byebug_history
+.irb-history
+
+# Editor & OS
+.DS_Store
+*.swp
+*.swo
+*.bak
+*.log
+*.orig
+
+# VSCode
+.vscode/
+
+# JetBrains (RubyMi
